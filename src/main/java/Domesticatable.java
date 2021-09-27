@@ -6,3 +6,4 @@ interface Domesticatable {
      **/
     String sound();
 }
+//
