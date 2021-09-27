@@ -38,3 +38,4 @@ public class Horse implements Drivable, Domesticatable, Tradable {
         return id + " (Max speed: " + this.maxSpeed +")";
     }
 }
+//
