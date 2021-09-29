@@ -97,10 +97,21 @@ public class Trader {
                 new Horse(),
                 new Horse(),
                 new Horse(),
+
                 new Fish(),
                 new Fish(),
                 new Fish()
+                new Cat()
+
+                new unknown()
+
+
+
         );
+                // TODO: Add Tradable objects here!
+
+
+
 
         /* Below, we've created two Traders. Their money, inventory, and
          * wishlists are randomly generated (see the constructor above).
